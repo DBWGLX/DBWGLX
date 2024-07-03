@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hi,welcome to my home!👋 I'm Ehan Wang from SZU. 
 
+My blog : [CSDN : DBWG](https://blog.csdn.net/JK01WYX?spm=1000.2115.3001.5343)
 <!--
 **lubenweiNBNBNBNB/lubenweiNBNBNBNB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
