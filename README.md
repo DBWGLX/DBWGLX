@@ -6,7 +6,8 @@ My CodeForce : [CodeForce - DBWGLX](https://codeforces.com/profile/DBWGLX)
 
 My bilibil :  [Bilibili - DBWG](https://space.bilibili.com/360972545)
 
-![lin_p1](https://github.com/user-attachments/assets/0aa9083b-936a-4be5-ab45-de7be8b5ed42)
+![b96f8a80e6d4ff9cbb6414ac0990fa78](https://github.com/user-attachments/assets/562fa5bf-164b-498d-8b5f-dec981e1de4c)
+
 
 <!--
 **lubenweiNBNBNBNB/lubenweiNBNBNBNB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
