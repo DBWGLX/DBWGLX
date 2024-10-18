@@ -1,6 +1,13 @@
 ### Hi,welcome to my home!👋 I'm Ehan Wang from SZU. 
 
-My blog : [CSDN : DBWG](https://blog.csdn.net/JK01WYX?spm=1000.2115.3001.5343)
+My blog : [CSDN - DBWG](https://blog.csdn.net/JK01WYX?spm=1000.2115.3001.5343)
+
+My CodeForce : [CodeForce - DBWGLX](https://codeforces.com/profile/DBWGLX)
+
+My bilibil :  [Bilibili - DBWG](https://space.bilibili.com/360972545)
+
+![lin_p1](https://github.com/user-attachments/assets/0aa9083b-936a-4be5-ab45-de7be8b5ed42)
+
 <!--
 **lubenweiNBNBNBNB/lubenweiNBNBNBNB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
