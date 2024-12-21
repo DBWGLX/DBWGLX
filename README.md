@@ -10,11 +10,13 @@
 
 - #### My Works 🚗
 
-  &nbsp;&nbsp;&nbsp;&nbsp;  Linux : [Inter-Process Communication](https://github.com/lubenweiNBNBNBNB/SZU_system_programming)
+  &nbsp;&nbsp;&nbsp;&nbsp;  Linux &nbsp;&nbsp;&nbsp;&nbsp; : [Inter-Process Communication](https://github.com/lubenweiNBNBNBNB/SZU_system_programming)
 
   &nbsp;&nbsp;&nbsp;&nbsp;  Android : [App Client](https://github.com/lubenweiNBNBNBNB/My_ONE)
 
-  &nbsp;&nbsp;&nbsp;&nbsp;  OpenGL : [Tetris Game](https://github.com/lubenweiNBNBNBNB/SZU_Tetris)
+  &nbsp;&nbsp;&nbsp;&nbsp;  OpenGL : [Tetris Game](https://github.com/lubenweiNBNBNBNB/SZU_Tetris)  &nbsp; [3D-Lighting-and-Shadow-Modeling](https://github.com/DBWGLX/-OpenGL-3D-Lighting-and-Shadow-Modeling)
+
+  &nbsp;&nbsp;&nbsp;&nbsp;  WXML &nbsp;&nbsp; : [SZU_Alumni](https://github.com/DBWGLX/SZU_Alumni)
 
 - #### Contact Me 🤓
 
